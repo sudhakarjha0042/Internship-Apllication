@@ -1,0 +1,35 @@
+.tutorRow {
+  width: 60rem;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tutorCourseDetailsPage {
+  width: 100%;
+  align-items: center;
+  gap: 2.75rem;
+  max-width: 60rem;
+}
+.contentSection,
+.mainDiv,
+.tutorCourseDetailsPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  word-break: break-all;
+}
+.contentSection {
+  align-self: stretch;
+  padding: 3.25rem 0 0;
+  align-items: center;
+  gap: 3.13rem;
+}
+.mainDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  align-items: flex-start;
+}

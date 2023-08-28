@@ -1,0 +1,156 @@
+.linkXzectLogoTitleLight {
+  position: absolute;
+  width: 13.78%;
+  top: 1rem;
+  right: 83.29%;
+  left: 2.93%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 3rem;
+  object-fit: cover;
+}
+.itemLink {
+  position: relative;
+  line-height: 1.2rem;
+}
+.frame,
+.frame1 {
+  align-items: flex-start;
+}
+.frame {
+  display: flex;
+  flex-direction: row;
+  padding: 0.31rem 2.18rem 0.26rem 0.31rem;
+  justify-content: flex-start;
+}
+.frame1 {
+  padding: 0.31rem 2.17rem 0.26rem 0.31rem;
+}
+.frame1,
+.frame3,
+.loginBox,
+.menuItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame3 {
+  padding: 0.31rem 0.31rem 0.26rem;
+  align-items: center;
+}
+.loginBox,
+.menuItems {
+  position: absolute;
+  align-items: flex-start;
+}
+.menuItems {
+  top: 1.65rem;
+  right: 9.84rem;
+  width: 22.02rem;
+  flex-wrap: wrap;
+}
+.loginBox {
+  top: 1.15rem;
+  right: 1.88rem;
+  border-radius: 50px;
+  background-color: #fff;
+  border: 1px solid #457dff;
+  padding: 0.81rem 1.79rem 0.76rem 1.8rem;
+  text-align: center;
+  color: #457dff;
+}
+.header,
+.nav {
+  align-self: stretch;
+}
+.nav {
+  position: relative;
+  width: 64rem;
+  max-width: 64rem;
+}
+.header {
+  background-color: #fff;
+  border-bottom: 2px solid #f8f8f8;
+  box-sizing: border-box;
+  height: 5.25rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.13rem;
+  align-items: flex-start;
+  justify-content: center;
+  text-align: left;
+  font-size: 1rem;
+  color: #57586e;
+  font-family: Roboto;
+}
+
+.menuIcon{
+  display: none;
+}
+
+.link {
+  text-decoration: none;
+  color: #57586e;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.link:hover {
+  color: #2aa2d6;
+}
+
+/* For screens with a width of less than 768px */
+@media only screen and (max-width: 767px) {
+  .nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0.5rem 1rem;
+  }
+  .menuIcon {
+    top: 15rem;
+    display: block;
+    font-size: 1.5rem;
+    cursor: pointer;
+    background-color: #457dff;
+    padding: 0.2rem;
+    margin-top: 0.9rem;
+  }
+  .menuItems {
+    display: none;
+    position: absolute;
+    top: 5.25rem;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    border: #457dff 1px solid;
+  }
+  .menuItems.active {
+    display: block;
+    background: wheat;
+    z-index: 10;
+  }
+  .menuItems .frame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .menuItems .frame div {
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    color: #57586e;
+    text-decoration: none;
+  }
+  .menuItems .frame div:hover {
+    color: #457dff;
+  }
+
+  .linkXzectLogoTitleLight{
+    width: 9rem;
+  }
+
+  .loginBox{
+    margin-right: 2rem;
+  }
+}

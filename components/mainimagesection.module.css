@@ -1,0 +1,818 @@
+.fullStackWebDevelopmentStuIcon {
+  flex: 1;
+  position: relative;
+  max-width: 59.88rem;
+  overflow: hidden;
+  height: 36.77rem;
+  object-fit: cover;
+  max-height: 36.77rem;
+}
+.tutorCourseThumbnail {
+  position: absolute;
+  width: calc(100% - 2px);
+  top: 0.06rem;
+  right: 0.06rem;
+  left: 0.06rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b {
+  position: absolute;
+  top: -0.06rem;
+  left: 0;
+  line-height: 2.35rem;
+}
+.div1 {
+  position: relative;
+  line-height: 1.4rem;
+}
+.del,
+.div {
+  position: absolute;
+}
+.del {
+  top: 0.63rem;
+  left: 7.47rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 0.88rem;
+  color: #757c8e;
+}
+.div {
+  bottom: 5.95rem;
+  left: 2rem;
+  width: 11.77rem;
+  height: 2.35rem;
+}
+.addToCart {
+  position: relative;
+  line-height: 1.58rem;
+  display: inline-block;
+  max-width: 22.38rem;
+}
+.formButton {
+  position: absolute;
+  top: 5.35rem;
+  left: calc(50% - 200px);
+  border-radius: 6px;
+  background-color: #3e64de;
+  border: 1px solid #3e64de;
+  box-sizing: border-box;
+  width: 25rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.69rem 1.31rem 0.64rem;
+  align-items: center;
+  justify-content: center;
+  max-width: 25rem;
+  text-align: center;
+  font-size: 1rem;
+  color: #fff;
+  font-family: Inter;
+}
+.tutorCardBody {
+  align-self: stretch;
+  position: relative;
+  height: 10.3rem;
+}
+.vectorIcon {
+  position: relative;
+  width: 0.68rem;
+  height: 0.96rem;
+}
+.icon,
+.spantutorIconLevel {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon {
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.02rem 0.33rem 0.02rem 0;
+}
+.spantutorIconLevel {
+  position: absolute;
+  height: calc(100% - 4px);
+  top: 0.25rem;
+  bottom: 0;
+  left: 0;
+  padding: 0 0 0.35rem;
+}
+.allLevels {
+  position: relative;
+  line-height: 1.6rem;
+}
+.spantutorFs6 {
+  position: absolute;
+  height: calc(100% + 0.41px);
+  top: 0;
+  bottom: -0.03rem;
+  left: 1.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item {
+  position: relative;
+  width: 55.75rem;
+  height: 1.6rem;
+}
+.icon1,
+.vectorIcon1 {
+  width: 1rem;
+  height: 1rem;
+}
+.vectorIcon1 {
+  position: relative;
+}
+.icon1 {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vectorIcon2 {
+  position: relative;
+  width: 0.92rem;
+  height: 0.92rem;
+}
+.icon2,
+.spantutorIconRefreshO {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon2 {
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.04rem 0.08rem 0.04rem 0;
+}
+.spantutorIconRefreshO {
+  position: absolute;
+  height: calc(100% - 4px);
+  top: 0.25rem;
+  bottom: 0;
+  left: 0;
+  padding: 0 0 0.35rem;
+}
+.list {
+  width: 55.75rem;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.list,
+.tutorCard,
+.tutorCardFooter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tutorCardFooter {
+  align-self: stretch;
+  border-radius: 0 0 5px 5px;
+  border-top: 1px solid #cdcfd5;
+  flex-direction: row;
+  padding: 1.56rem 2rem 1.5rem;
+  font-size: 1rem;
+  color: #41454f;
+}
+.tutorCard {
+  position: absolute;
+  width: calc(100% - 2px);
+  top: 36.83rem;
+  right: 0.06rem;
+  left: 0.06rem;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 1px solid #cdcfd5;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 0.06rem;
+}
+.heading2,
+.heading4 {
+  position: relative;
+  line-height: 2.8rem;
+  display: inline-block;
+  max-width: 56.88rem;
+}
+.heading4 {
+  line-height: 2.76rem;
+}
+.getReadyFor {
+  margin: 0;
+}
+.getReadyForContainer {
+  position: relative;
+  line-height: 2rem;
+  display: inline-block;
+  max-width: 56.88rem;
+}
+.aboutCourseDetails,
+.divtutorCourseDetailsConte,
+.p {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.p {
+  width: 56.88rem;
+  flex-direction: row;
+  margin-top: -0.05rem;
+  font-size: 1rem;
+}
+.aboutCourseDetails,
+.divtutorCourseDetailsConte {
+  flex-direction: column;
+}
+.aboutCourseDetails {
+  width: 56.88rem;
+  font-size: 1.63rem;
+  color: #41454f;
+}
+.divtutorCourseDetailsConte {
+  position: absolute;
+  width: 100%;
+  top: -0.06rem;
+  right: 0;
+  left: 0;
+  gap: 0.8rem;
+  font-size: 1.75rem;
+}
+.heading3 {
+  position: relative;
+  line-height: 2.4rem;
+  display: inline-block;
+  max-width: 56.88rem;
+}
+.vectorIcon3 {
+  position: relative;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.icon3,
+.span,
+.spantutorIconBulletPoint {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon3 {
+  width: 0.75rem;
+  height: 0.75rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.19rem 0.38rem 0.19rem 0;
+  box-sizing: border-box;
+}
+.span,
+.spantutorIconBulletPoint {
+  position: absolute;
+}
+.spantutorIconBulletPoint {
+  height: calc(100% - 2px);
+  top: 0.13rem;
+  bottom: 0;
+  left: 0;
+  padding: 0.19rem 0 0.54rem;
+  box-sizing: border-box;
+}
+.span {
+  height: calc(100% + 0.41px);
+  top: 0;
+  bottom: -0.03rem;
+  left: 1.25rem;
+}
+.item3 {
+  position: relative;
+  width: 18.77rem;
+  height: 1.6rem;
+}
+.itemmargin {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin,
+.itemmargin1,
+.itemmargin2 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 0;
+  bottom: 16.45rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin1 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin2 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin3 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin3,
+.itemmargin4,
+.itemmargin5 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 2.35rem;
+  bottom: 14.1rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin4 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin5 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin6 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin6,
+.itemmargin7,
+.itemmargin8 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 4.7rem;
+  bottom: 11.75rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin7 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin8 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin9 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin10,
+.itemmargin11,
+.itemmargin9 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 7.05rem;
+  bottom: 9.4rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin10 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin11 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin12 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin12,
+.itemmargin13,
+.itemmargin14 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 9.4rem;
+  bottom: 7.05rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin13 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin14 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin15 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin15,
+.itemmargin16,
+.itemmargin17 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 11.75rem;
+  bottom: 4.7rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin16 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin17 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin18 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin18,
+.itemmargin19,
+.itemmargin20 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 14.1rem;
+  bottom: 2.35rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin19 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin20 {
+  right: 0;
+  left: 38.11rem;
+}
+.itemmargin21 {
+  right: 38.11rem;
+  left: 0;
+}
+.itemmargin21,
+.itemmargin22,
+.itemmargin23 {
+  position: absolute;
+  height: calc(100% - 263.16px);
+  width: calc(100% - 609.7px);
+  top: 16.45rem;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.75rem;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.itemmargin22 {
+  right: 19.05rem;
+  left: 19.05rem;
+}
+.itemmargin23 {
+  right: 0;
+  left: 38.11rem;
+}
+.listofskills {
+  position: relative;
+  width: 56.88rem;
+  height: 18.8rem;
+  font-size: 1rem;
+}
+.divtutorCourseDetailsWidge {
+  position: absolute;
+  width: 100%;
+  top: 22.31rem;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.96rem;
+}
+.webFundamentals {
+  position: absolute;
+  top: 1rem;
+  left: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+}
+.vectorIcon27 {
+  position: relative;
+  width: 0.83rem;
+  height: 0.83rem;
+}
+.icon27 {
+  position: absolute;
+  top: 3.77rem;
+  left: 54.55rem;
+  width: 1rem;
+  height: 1.4rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0.28rem 0.49rem 0.28rem 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.heading41 {
+  position: relative;
+  border-radius: 6px 6px 0 0;
+  background-color: #eff1f6;
+  width: 56.75rem;
+  height: 3.75rem;
+  z-index: 1;
+}
+.div2 {
+  position: relative;
+  line-height: 1.5rem;
+}
+.spantutorCourseContentList {
+  position: absolute;
+  top: calc(50% - 20.01px);
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0.19rem 0.5rem 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.introductionToWeb {
+  position: relative;
+  line-height: 1.8rem;
+}
+.heading5 {
+  position: absolute;
+  top: calc(50% - 15.4px);
+  left: 2.25rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 0.05rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 1.13rem;
+  color: #212327;
+  font-family: Roboto;
+}
+.divtutorDFlex,
+.vectorIcon28 {
+  position: relative;
+  width: 18.92rem;
+  height: 2.8rem;
+}
+.vectorIcon28 {
+  width: 0.83rem;
+  height: 0.96rem;
+}
+.div3,
+.icon28,
+.item27 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon28 {
+  width: 1rem;
+  height: 1rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 0.02rem 0.17rem 0.02rem 0;
+  box-sizing: border-box;
+}
+.div3,
+.item27 {
+  padding: 0.5rem 0 0.5rem 1.25rem;
+}
+.item27 {
+  background-color: #fff;
+  width: 56.75rem;
+  padding: 0.5rem 1rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.divtutorDFlex1,
+.divtutorDFlex2 {
+  position: relative;
+  width: 26.35rem;
+  height: 2.8rem;
+}
+.divtutorDFlex2 {
+  width: 16.36rem;
+}
+.item29 {
+  border-radius: 0 0 6px 6px;
+  background-color: #fff;
+  width: 56.75rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 1rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.list1 {
+  width: 56.75rem;
+  flex-direction: column;
+  padding: 0;
+}
+.divtutorAccordionItem,
+.divtutorAccordionItemBody,
+.list1 {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divtutorAccordionItemBody {
+  border-top: 1px solid #e0e2ea;
+  width: 56.75rem;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0.06rem 0 0;
+  z-index: 0;
+  font-size: 1.5rem;
+  color: rgba(33, 35, 39, 0.35);
+  font-family: Inter;
+}
+.divtutorAccordionItem {
+  background-color: #fff;
+  border: 1px solid #e0e2ea;
+  width: 56.88rem;
+  flex-direction: column;
+  padding: 0.06rem;
+  color: #3e64de;
+}
+.vectorIcon31 {
+  position: relative;
+  width: 0.51rem;
+  height: 0.83rem;
+}
+.icon31 {
+  position: absolute;
+  top: 2.57rem;
+  left: 54.75rem;
+  width: 1rem;
+  height: 1.4rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0.28rem 0.49rem 0.28rem 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading42 {
+  position: relative;
+  border-radius: 6px;
+  background-color: #fcfcfd;
+  width: 56.75rem;
+  height: 3.75rem;
+}
+.divtutorAccordionItem1,
+.tutorAccordion,
+.tutorAccordion1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divtutorAccordionItem1 {
+  background-color: #fff;
+  border: 1px solid #e0e2ea;
+  box-sizing: border-box;
+  width: 56.88rem;
+  flex-direction: row;
+  padding: 0.06rem;
+}
+.tutorAccordion,
+.tutorAccordion1 {
+  flex-direction: column;
+}
+.tutorAccordion1 {
+  width: 56.88rem;
+  gap: 1.25rem;
+  font-size: 1.25rem;
+  color: #41454f;
+}
+.tutorAccordion {
+  position: absolute;
+  width: 100%;
+  top: 49.01rem;
+  right: 0;
+  left: 0;
+  padding: 1rem 0 0;
+  box-sizing: border-box;
+  gap: 2.46rem;
+}
+.tutorCourseDetailsTabInfo {
+  position: absolute;
+  width: calc(100% - 50px);
+  top: 60.11rem;
+  right: 1.56rem;
+  left: 1.56rem;
+  height: 121.49rem;
+  font-size: 1.5rem;
+}
+.main {
+  position: relative;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  width: 100%;
+  height: 182.67rem;
+  max-width: 60rem;
+  text-align: left;
+  font-size: 1.47rem;
+  color: #212327;
+  font-family: Roboto;
+  transform: scale(1);
+}
+
+@media (max-width: 768px) {
+  .main {
+    transform: scale(0.8);
+  }
+
+  .fullStackWebDevelopmentStuIcon {
+    transform: scale(0.8);
+  }
+  .tutorCard{
+    transform: scale(0.8);
+  }
+  .tutorCourseDetailsTabInfo{
+    transform: scale(0.8);
+  }
+}
+
+@media (max-width: 576px) {
+  .main {
+    transform: scale(0.6);
+  }
+  
+  .fullStackWebDevelopmentStuIcon {
+    transform: scale(0.8);
+  }
+  .tutorCard{
+    transform: scale(0.8);
+  }
+
+  .tutorCourseDetailsTabInfo{
+    transform: scale(0.8);
+  }
+}
+
